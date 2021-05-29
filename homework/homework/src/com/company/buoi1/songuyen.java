@@ -2,6 +2,10 @@ package com.company.buoi1;
 
 import java.util.Scanner;
 
+//1,Nhập vào 1mảng số nguyên,tìm kiếm trong mảng đấy có bao nhiêu số chia hết cho 3.
+//2,Nhập vào 2số nguyên dương,in ra ước,ước chung lớn nhất và ước chung nhỏ nhất của 2số đó
+//3,Tìm và in ra tất cả số hoàn hảo nhỏ hơn 10^9
+
 public class songuyen {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

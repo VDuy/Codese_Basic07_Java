@@ -2,9 +2,13 @@ package com.company.buoi2;
 
 import java.util.Scanner;
 
+//Nhập vào 1 xâu ký tự. In ra các ký tự xuất hiện trong xâu đó và số lần lặp lại của từng ký tự.
+//Nhập vào 1 xâu và kiểm tra xem xâu đó có phải là xâu Palindrome hay không
+//        Palindrome: xâu lật ngược lại vẫn là chính nó
+//Nhập vào 1 xâu và kiểm tra xem xâu có thoả mãn ko có hai ký tự giống nhau nào cạnh nhau,
+//        nếu thoả mãn in ra xâu đó, nếu không thoả mãn in ra những ký tự giống nhau cạnh nhau.
+
 public class btstring {
-
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

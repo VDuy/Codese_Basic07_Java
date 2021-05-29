@@ -2,7 +2,7 @@ package com.company.thuattoancoban;
 
 import java.util.Scanner;
 
-public class b4timkiem {
+public class b4timkiem3songuyenlientiep {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
