@@ -5,3 +5,11 @@ public class B {
 
     }
 }
+
+// super advance
+// SOLID
+// Single Responsibility Principle
+// Open-close Principle
+// Liskov Principle
+// Interface segregation principle
+// Dependency inversion Principle
