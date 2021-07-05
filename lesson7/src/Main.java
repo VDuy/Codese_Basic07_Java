@@ -1,4 +1,4 @@
-package com.company;
+package com;
 
 import com.company.package_a.A;
 import com.company.package_a.A2;
