@@ -1,11 +1,9 @@
-package com;
-
-import com.company.package_a.A;
-import com.company.package_a.A2;
-import com.company.package_a.A3;
+import example_encapsulation.package_a.A;
+import example_encapsulation.package_a.A2;
+import example_encapsulation.package_a.A3;
 
 /**
- * - 4 tinh chat quan trong vai lon
+ * - 4 tinh chat OOP
  * - Abstraction - abstract, interface
  * - Inheritance - extends, implements
  * - Encapsulation - public, private, protected

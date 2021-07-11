@@ -1,4 +1,6 @@
-package com.company.package_b;
+package example_encapsulation.package_b;
+
+import example_encapsulation.package_a.A;
 
 public class B {
     public static void main(String[] args) {

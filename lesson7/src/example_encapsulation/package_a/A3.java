@@ -1,4 +1,4 @@
-package com.company.package_a;
+package example_encapsulation.package_a;
 
 public class A3 extends A2 {
     public A3(){
