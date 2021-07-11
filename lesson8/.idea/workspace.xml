@@ -2,56 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbe5f00a-99a6-4996-a7f3-f268a4b5c6e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lesson7/src/example_abstraction/BaseView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/HighSchoolStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/InterfaceStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/QuanLy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/UniversityStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson9/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson9/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson9/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson9/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson9/lesson9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson9/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/lesson7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/lesson7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/com/company/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/com/company/package_a/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/com/company/package_a/A2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/com/company/package_a/A3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/com/company/package_a/B2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/com/company/package_b/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/AnUong.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/AnUong.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/ConGa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/ConGa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/ConLon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/ConLon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/X.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/out/production/lesson7/example_abstraction/X.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/src/example_abstraction/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/src/example_abstraction/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/src/example_encapsulation/package_a/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/src/example_encapsulation/package_a/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/src/example_encapsulation/package_a/A2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/src/example_encapsulation/package_a/A2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/src/example_encapsulation/package_a/A3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/src/example_encapsulation/package_a/A3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/src/example_encapsulation/package_a/B2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/src/example_encapsulation/package_a/B2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson7/src/example_encapsulation/package_b/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson7/src/example_encapsulation/package_b/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/QuanLy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/QuanLy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
