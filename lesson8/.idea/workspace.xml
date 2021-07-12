@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbe5f00a-99a6-4996-a7f3-f268a4b5c6e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/model/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson9/out/production/lesson9/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/QuanLy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/QuanLy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/HighSchoolStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/HighSchoolStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/QuanLy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson9/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson9/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +29,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1v7G29qDdI822XXtNRsARFPJWzU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -82,6 +91,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="model" />
@@ -120,5 +132,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

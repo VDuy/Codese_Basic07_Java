@@ -5,6 +5,7 @@ public class HighSchoolStudent extends Student {
     private int physicScore;
     private int chemicalScore;
 
+
     public HighSchoolStudent(int ID, String name, String address) {
         super(ID, name, address);
     }
@@ -40,8 +41,8 @@ public class HighSchoolStudent extends Student {
     @Override
     public void inputInfo() {
         this.physicScore = 10;
-        this.mathScore = 11;
-        this.chemicalScore = 12;
+        this.mathScore = 8;
+        this.chemicalScore = 9;
     }
 
     @Override

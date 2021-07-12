@@ -37,4 +37,7 @@ abstract public class Student implements InterfaceStudent{
     public void setAddress(String address) {
         this.address = address;
     }
+
+
+
 }
