@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbe5f00a-99a6-4996-a7f3-f268a4b5c6e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/model/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson9/out/production/lesson9/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/HighSchoolStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/HighSchoolStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/QuanLy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson9/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson9/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="fbe5f00a-99a6-4996-a7f3-f268a4b5c6e1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +83,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -132,6 +123,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
